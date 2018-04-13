@@ -1,16 +1,50 @@
 {
-  "name": "liangyuqi",
-  "version": "1.0.0",
-  "description": "",
+  "_from": "liangyuqi",
+  "_id": "liangyuqi@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-TxIDKdqxf+1taBOkYpZ+UEGvEFtHEr4O+JEeISVSstn5vixzg1Bdn8V1x9Oimrk5gAMUnbst2FD+xN/2sQV8NQ==",
+  "_location": "/liangyuqi",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "liangyuqi",
+    "name": "liangyuqi",
+    "escapedName": "liangyuqi",
+    "scope": "liangyuqi",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/liangyuqi/--1.0.0.tgz",
+  "_shasum": "846dc556063c590ca09086eb6133b9867c0b561d",
+  "_spec": "liangyuqi",
+  "_where": "/Users/liangyuqi",
+  "author": {
+    "name": "liangyuqi"
+  },
+  "bin": {
+    "liangyuqi": "bin/liangyuqi.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colors-cli": "^1.0.13",
+    "commander": "^2.15.1",
+    "yargs": "^11.0.0"
+  },
+  "deprecated": false,
+  "description": "this is test",
+  "directories": {
+    "lib": "lib"
+  },
+  "license": "ISC",
   "main": "index.js",
+  "name": "liangyuqi",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "commander": "^2.15.1",
-    "nvm": "0.0.4"
-  }
+  "version": "1.0.0"
 }

@@ -1,9 +1,0 @@
-https://blog.csdn.net/qq_27626333/article/details/77857223
-1.nvm全称Node Version Manager是 Nodejs 版本管理器
-
-2.nrm(npm registry manager )是npm的镜像源管理工具，有时候国外资源太慢，那么我们可以用这个来切换镜像源
-
-commander介绍
-commander是一个轻巧的nodejs模块，提供了用户命令行输入和参数解析强大功能。commander源自一个同名的Ruby项目。
-
-https://www.cnblogs.com/czf-zone/p/6860457.html
